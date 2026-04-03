@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+python-dotenv
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+cors
